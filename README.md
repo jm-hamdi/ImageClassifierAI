@@ -135,6 +135,7 @@ Ce projet fournit une base solide pour :
 * Comprendre les CNN
 * Travailler avec des images pour la classification
 * Appliquer des techniques d’augmentation de données et de régularisation
+  
 
 ---
 
