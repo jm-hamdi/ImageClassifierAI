@@ -130,7 +130,7 @@ plt.show()
 
 ##  Conclusion
 
-Ce projet fournit une base solide pour :
+Ce projet fournit une base solide pour:
 
 * Comprendre les CNN
 * Travailler avec des images pour la classification
